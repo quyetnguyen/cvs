@@ -33,3 +33,15 @@ This project is built using the **MVVM** architecture, for clear separation of c
 - [ ] **Unit Tests**: Includes unit tests for the repository and ViewModel layers to validate core functionality
 - [x] **Share Button**: A button in the detail view lets users share the image along with its metadata
 - [ ] **Image Transition Animation**: Provides smooth animations between the list/grid view and the detail view
+
+
+
+
+| Search Screen | Detail View  | Share Button View |
+|----------------------|-------------|-------------|
+|  <img src="https://github.com/user-attachments/assets/44d7b0f8-69e7-4caa-b4c8-7abc9151c6b8" alt="Search Screen" width="300" />  | <img src="https://github.com/user-attachments/assets/6bf3baf1-ac95-4cb0-93d8-5882be35ab7a" alt="Detail View" width="300" /> | <img src="https://github.com/user-attachments/assets/2d158403-9795-4cc0-82a5-7d64334d4a7b" alt="Share" width="300" /> |
+
+
+| Dynamic Scaling | Landscape Orientation |
+|----------------------|-------------|
+|  <img src="https://github.com/user-attachments/assets/991463d7-6d27-495a-9a11-f10e57b375cc" alt="Scaling" width="300" />  | <img src="https://github.com/user-attachments/assets/2bba7441-9de1-44ca-a4bc-04931e21cde3" alt="Landscape" height="300" /> |
